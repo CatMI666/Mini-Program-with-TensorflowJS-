@@ -1,0 +1,2 @@
+<!--pages/home/home.wxml-->
+<button bindtap="gotoCamera">跳转到相机</button>
